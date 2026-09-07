@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=PM2 App
+GenericName=Bot background runner
+GenericName[ar]=مشغّل البوتات في الخلفية
+GenericName[id]=Menjalankan bot di latar belakang
+Comment=Run and manage your bots in the background with PM2
+Comment[ar]=شغّل بوتاتك وأدرها في الخلفية عبر PM2
+Comment[id]=Jalankan dan kelola bot Anda di latar belakang dengan PM2
+Exec=/home/sameh997171/Desktop/PM2-App/run.sh
+Icon=/home/sameh997171/Desktop/PM2-App/icon.png
+Terminal=false
+Categories=Utility;Development;
+StartupNotify=false

